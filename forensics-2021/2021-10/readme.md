@@ -1,4 +1,4 @@
-# Parsed PCAP Data from the December 2021 Forensics Contest
+# Parsed PCAP Data from the October 2021 Forensics Contest
 
 Website for the 2021 challenge:
 
@@ -12,7 +12,7 @@ The password for the zip files: infected
 
 The solution to the challenge is described here:
 
-https://isc.sans.edu/diary/December+2021+Forensic+Contest+Answers+and+Analysis/28160
+https://isc.sans.edu/diary/October+2021+Forensic+Contest+Answers+and+Analysis/27998
 
 The zeek commands used to extract the metadata from the PCAP:
 
