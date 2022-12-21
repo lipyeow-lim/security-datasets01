@@ -1,0 +1,6 @@
+{"ts":1638560516.664862,"uid":"CvfXD31D4jvdV4rKl8","id.orig_h":"10.12.3.66","id.orig_p":52392,"id.resp_h":"10.12.3.3","id.resp_p":139,"path":"\\\\FARGREENTECH-DC\\IPC$","service":"IPC","share_type":"PIPE"}
+{"ts":1638560529.025903,"uid":"CV4CcY243VPcnRtAGi","id.orig_h":"10.12.3.66","id.orig_p":52396,"id.resp_h":"10.12.3.3","id.resp_p":445,"path":"\\\\FARGREENTECH.COM\\IPC$","share_type":"PIPE"}
+{"ts":1638560529.185544,"uid":"CobRNy2FLNbmADjHF4","id.orig_h":"10.12.3.66","id.orig_p":52402,"id.resp_h":"10.12.3.3","id.resp_p":445,"path":"\\\\FARGREENTECH-DC\\Shared","share_type":"DISK"}
+{"ts":1638560538.362397,"uid":"C7Aeju11EYqV4rVj1k","id.orig_h":"10.12.3.66","id.orig_p":52410,"id.resp_h":"10.12.3.3","id.resp_p":445,"path":"\\\\FARGREENTECH-DC.fargreentech.com\\IPC$","share_type":"PIPE"}
+{"ts":1638561438.332655,"uid":"Cg8yd611BIG9md9pJi","id.orig_h":"10.12.3.66","id.orig_p":52453,"id.resp_h":"10.12.3.3","id.resp_p":445,"path":"\\\\FARGREENTECH-DC.fargreentech.com\\IPC$","share_type":"PIPE"}
+{"ts":1638562338.306218,"uid":"Cl6VhwuNI4l8sUs1i","id.orig_h":"10.12.3.66","id.orig_p":52994,"id.resp_h":"10.12.3.3","id.resp_p":445,"path":"\\\\FARGREENTECH-DC.fargreentech.com\\IPC$","share_type":"PIPE"}

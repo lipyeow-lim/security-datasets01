@@ -1,0 +1,1 @@
+{"ts":1638560543.224976,"uid":"CobRNy2FLNbmADjHF4","id.orig_h":"10.12.3.66","id.orig_p":52402,"id.resp_h":"10.12.3.3","id.resp_p":445,"action":"SMB::FILE_OPEN","path":"\\\\FARGREENTECH-DC\\Shared","name":"<share_root>","size":12288,"times.modified":1636579157.0189076,"times.accessed":1636579157.0189076,"times.created":1636579001.0946885,"times.changed":1638498512.4318658}
