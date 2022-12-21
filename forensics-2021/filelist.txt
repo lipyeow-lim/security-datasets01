@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/lipyeow-lim/security-datasets01/main/forensics-2021/2021-10/conn.log
+https://raw.githubusercontent.com/lipyeow-lim/security-datasets01/main/forensics-2021/2021-10/dce_rpc.log
+https://raw.githubusercontent.com/lipyeow-lim/security-datasets01/main/forensics-2021/2021-10/dhcp.log
+https://raw.githubusercontent.com/lipyeow-lim/security-datasets01/main/forensics-2021/2021-10/dns.log
+https://raw.githubusercontent.com/lipyeow-lim/security-datasets01/main/forensics-2021/2021-10/dpd.log
